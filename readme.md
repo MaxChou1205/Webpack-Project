@@ -39,12 +39,12 @@ plugins: [
 ```
 
 ## [Clean plugin for webpack](https://github.com/johnagan/clean-webpack-plugin)
-build時，自動清除output files
+build時，自動清除output files
 
 ## [copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin)
 build時，自動將指令目錄複製至output目錄
 
-## [CompressionWebpackPlugin] (https://webpack.js.org/plugins/compression-webpack-plugin/)
+## [CompressionWebpackPlugin](https://webpack.js.org/plugins/compression-webpack-plugin/)
 build時，自動建立打包後的壓縮檔
 
 ## [DefinePlugin](https://webpack.js.org/plugins/define-plugin/)
